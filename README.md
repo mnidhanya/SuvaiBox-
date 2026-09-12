@@ -83,13 +83,13 @@ Restaurants can manage their food, menus, categories, offers, orders and busines
 SuvaiBox is designed to support secure online payments using Razorpay.
 
 Customer
-    ↓
+    ->
 Checkout
-    ↓
+     ->
 Razorpay Payment
-    ↓
+     ->
 Payment Verification
-    ↓
+     ->
 Order Confirmation
 
 Payment verification is handled through the backend before an order is confirmed.
@@ -122,22 +122,21 @@ Payment verification is handled through the backend before an order is confirmed
 
 <div align="center">Frontend
 
-"React" (https://img.shields.io/badge/React-8B5CF6?style=for-the-badge&logo=react&logoColor=white)
-"Vite" (https://img.shields.io/badge/Vite-7C3AED?style=for-the-badge&logo=vite&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-6D28D9?style=for-the-badge&logo=javascript&logoColor=white)
-"Tailwind" (https://img.shields.io/badge/Tailwind_CSS-5B21B6?style=for-the-badge&logo=tailwindcss&logoColor=white)
+"React"
+"Vite" 
+"JavaScript" 
+"Tailwind" 
 
 Backend
 
-"Node" (https://img.shields.io/badge/Node.js-8B5CF6?style=for-the-badge&logo=node.js&logoColor=white)
-"Express" (https://img.shields.io/badge/Express-7C3AED?style=for-the-badge&logo=express&logoColor=white)
-"MongoDB" (https://img.shields.io/badge/MongoDB-6D28D9?style=for-the-badge&logo=mongodb&logoColor=white)
+"Node" 
+"Express"
+"MongoDB" 
 
 Services
 
-"Razorpay" (https://img.shields.io/badge/Razorpay-5B21B6?style=for-the-badge)
-"Cloudinary" (https://img.shields.io/badge/Cloud_Image_Storage-7C3AED?style=for-the-badge)
-
+"Razorpay" 
+"Cloudinary" 
 </div>---
 
 🔐 Security
