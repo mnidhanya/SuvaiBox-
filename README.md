@@ -4,10 +4,7 @@ Discover. Order. Enjoy.
 
 A modern food delivery platform connecting customers with restaurants through a simple, convenient and enjoyable digital experience.
 
-<br>""Frontend" (https://img.shields.io/badge/Frontend-React-8B5CF6?style=for-the-badge&logo=react&logoColor=white)" (https://react.dev/)
-""Backend" (https://img.shields.io/badge/Backend-Node.js-7C3AED?style=for-the-badge&logo=node.js&logoColor=white)" (https://nodejs.org/)
-""Database" (https://img.shields.io/badge/Database-MongoDB-6D28D9?style=for-the-badge&logo=mongodb&logoColor=white)" (https://www.mongodb.com/)
-""Payment" (https://img.shields.io/badge/Payment-Razorpay-5B21B6?style=for-the-badge)" (https://razorpay.com/)
+
 
 </div>---
 
