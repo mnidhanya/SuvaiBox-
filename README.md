@@ -1,66 +1,137 @@
 <div align="center">🍽️ SuvaiBox
 
-Discover. Order. Enjoy.
+Discover · Order · Enjoy
 
-A modern food delivery platform for customers, restaurants & delivery partners.
+A modern food delivery experience connecting customers, restaurants & delivery partners.
 
-<br>"React" · "Node.js" · "MongoDB" · "Razorpay"
+<br><kbd>✨ Modern UI</kbd>
+<kbd>📱 Responsive</kbd>
+<kbd>🌙 Dark Mode</kbd>
+<kbd>💳 Secure Payment</kbd>
 
 </div>---
 
-✨ What SuvaiBox Offers
+💜 The SuvaiBox Experience
 
 <table>
 <tr>
-<td align="center">👤<br><b>Customer</b><br><sub>Discover · Order · Pay · Track · Review</sub></td>
-<td align="center">🏪<br><b>Seller</b><br><sub>Manage · Menu · Orders · Offers</sub></td>
-<td align="center">🛡️<br><b>Admin</b><br><sub>Verify · Manage · Monitor</sub></td>
-<td align="center">🚚<br><b>Delivery</b><br><sub>Deliver · Track · Update</sub></td>
+<td align="center" width="16%">🔎<br><b>Discover</b><br><sub>Find food & restaurants</sub></td>
+<td align="center" width="16%">🍔<br><b>Explore</b><br><sub>Menus & food details</sub></td>
+<td align="center" width="16%">🛒<br><b>Order</b><br><sub>Cart & checkout</sub></td>
+<td align="center" width="16%">💳<br><b>Pay</b><br><sub>Secure payment</sub></td>
+<td align="center" width="16%">📦<br><b>Track</b><br><sub>Live order status</sub></td>
+<td align="center" width="16%">⭐<br><b>Review</b><br><sub>Share experience</sub></td>
 </tr>
 </table>---
 
-🎨 Experience
-
-🔎 Discover · 🍔 Explore · 🛒 Order · 💳 Pay · 📦 Track · ⭐ Review
-
-Modern purple interface · Light/Dark mode · Responsive design · Simple navigation
-
----
-
-🛠️ Built With
-
-Frontend: React · Vite · JavaScript · Tailwind CSS
-
-Backend: Node.js · Express.js · MongoDB · JWT
-
-Services: Razorpay · Cloud Image Storage · Location Services
-
----
-
-👩‍💻 Team
+✨ Platform
 
 <table>
 <tr>
-<td align="center" width="50%">💜 Dhanya M
+<td align="center" width="25%">👤
+
+Customer
+
+<sub>
+Search · Wishlist · Cart<br>
+Orders · Tracking · Reviews
+</sub></td><td align="center" width="25%">🏪
+
+Seller
+
+<sub>
+Restaurant · Menu<br>
+Orders · Offers · Analytics
+</sub></td><td align="center" width="25%">🛡️
+
+Admin
+
+<sub>
+Verification · Reports<br>
+Moderation · Management
+</sub></td><td align="center" width="25%">🚚
+
+Delivery
+
+<sub>
+Assigned Orders<br>
+Tracking · Status
+</sub></td>
+</tr>
+</table>---
+
+🎨 UI / UX
+
+<div align="center">💜 Modern Purple Design   •  
+🌙 Light / Dark Mode   •  
+📱 Responsive Interface
+
+<br><br>
+
+🧭 Simple Navigation   •  
+⚡ Smooth Interactions   •  
+🔎 Smart Search
+
+</div>Designed Around
+
+🏠 Home| 🍽️ Restaurant| 🍔 Food| 🛒 Cart
+Discover & explore| Menus & categories| Details & variants| Checkout & payment
+
+❤️ Wishlist| 📦 Orders| 📍 Tracking| ⭐ Reviews
+Save favourites| Order history| Delivery updates| Food & service
+
+---
+
+💳 Payment
+
+<div align="center">Cart → Checkout → Razorpay → Verification → Order
+
+</div>Real payment integration with secure backend verification.
+
+---
+
+🛠️ Technology
+
+<div align="center">Frontend
+
+"React" "Vite" "JavaScript" "Tailwind CSS"
+
+Backend
+
+"Node.js" "Express.js" "MongoDB" "Mongoose" "JWT"
+
+Services
+
+"Razorpay" "Cloud Image Storage" "Location Services"
+
+</div>---
+
+👩‍💻 Developers
+
+<table>
+<tr><td align="center" width="50%">💜 Dhanya M
 
 Backend Developer
 
+Backend · APIs · Database · Authentication · Payments
+
 <a href="https://www.linkedin.com/in/mnidhanya/">
-LinkedIn ↗
+<strong>LinkedIn ↗</strong>
 </a></td><td align="center" width="50%">💜 Pragathi B
 
 Frontend Developer
 
+UI · UX · Responsive Design · Frontend
+
 <a href="https://www.linkedin.com/in/pragathi-bala-596767366/">
-LinkedIn ↗
-</a></td>
-</tr>
+<strong>LinkedIn ↗</strong>
+</a></td></tr>
 </table>---
 
-<div align="center">💜 SuvaiBox
+<div align="center">🍽️ SuvaiBox
 
 Discover. Order. Enjoy.
 
-Made with ❤️ by Dhanya M & Pragathi B
+Built with 💜 by Dhanya M & Pragathi B
 
 </div>
